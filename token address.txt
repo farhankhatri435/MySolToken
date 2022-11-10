@@ -1,0 +1,4 @@
+Creating token FtVR5HM7Cdqc1h3y2eUDNqDhojtcvhs1WDG698kgnJXn
+Address:  FtVR5HM7Cdqc1h3y2eUDNqDhojtcvhs1WDG698kgnJXn 
+Decimals:  9
+Signature: NxCYMMY1TXPEkAoW6PPTT8kYzB2b3TuGaf7jDmitw83NiNXcnuDJujr15XAftwBbbakQY8d7dd2fmTfBfG49kxo                                                                                                                              
